@@ -16,7 +16,7 @@ console.log(500);
 console.warn(500);
 console.error(500);
 
-console.clear(); // clears console
+//console.clear(); // clears console
 
 // ===============================
 // 3. Data Type Identification
