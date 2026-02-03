@@ -108,10 +108,10 @@ console.log("Updated Array:", tech);
 // ===============================
 
 let student = {
-  name: "Prakash",
-  age: 21,
+  name: "Yashaswini",
+  age: 22,
   course: "JavaScript",
-  city: "Coimbatore"
+  city: "Karnataka"
 };
 
 console.log("Name:", student.name);
